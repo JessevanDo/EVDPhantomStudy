@@ -1,3 +1,6 @@
+# This script uses a mesh and coordinates of relevant drain points to plot a drain trajectory in an anatomical structure. 
+
+
 import numpy as np
 import nibabel as nib
 import matplotlib.pyplot as plt
